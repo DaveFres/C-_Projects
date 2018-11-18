@@ -1,0 +1,12 @@
+/home/david/Desktop/C#/third/solution_b/solution_b/solution_b/obj/x86/Debug/solution_b.csprojAssemblyReference.cache
+/home/david/Desktop/C#/third/solution_b/solution_b/solution_b/obj/x86/Debug/solution_b.csproj.CoreCompileInputs.cache
+/home/david/Desktop/C#/third/solution_b/solution_b/solution_b/bin/Debug/solution_b.exe
+/home/david/Desktop/C#/third/solution_b/solution_b/solution_b/bin/Debug/solution_b.pdb
+/home/david/Desktop/C#/third/solution_b/solution_b/solution_b/obj/x86/Debug/solution_b.exe
+/home/david/Desktop/C#/third/solution_b/solution_b/solution_b/obj/x86/Debug/solution_b.pdb
+F:\c#\HW_1\third\solution_b\solution_b\bin\Debug\solution_b.exe.config
+F:\c#\HW_1\third\solution_b\solution_b\obj\x86\Debug\solution_b.exe
+F:\c#\HW_1\third\solution_b\solution_b\obj\x86\Debug\solution_b.pdb
+F:\c#\HW_1\third\solution_b\solution_b\bin\Debug\solution_b.exe
+F:\c#\HW_1\third\solution_b\solution_b\bin\Debug\solution_b.pdb
+F:\c#\HW_1\third\solution_b\solution_b\obj\x86\Debug\solution_b.csprojResolveAssemblyReference.cache

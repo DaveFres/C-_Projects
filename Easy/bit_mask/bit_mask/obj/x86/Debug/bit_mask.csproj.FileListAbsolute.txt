@@ -1,0 +1,12 @@
+/home/david/Projects/bit_mask/bit_mask/bin/Debug/bit_mask.exe
+/home/david/Projects/bit_mask/bit_mask/bin/Debug/bit_mask.pdb
+/home/david/Projects/bit_mask/bit_mask/obj/x86/Debug/bit_mask.csprojAssemblyReference.cache
+/home/david/Projects/bit_mask/bit_mask/obj/x86/Debug/bit_mask.csproj.CoreCompileInputs.cache
+/home/david/Projects/bit_mask/bit_mask/obj/x86/Debug/bit_mask.exe
+/home/david/Projects/bit_mask/bit_mask/obj/x86/Debug/bit_mask.pdb
+/home/david/Documents/github_projects/C#_Projects/Easy/bit_mask/bit_mask/bin/Debug/bit_mask.exe
+/home/david/Documents/github_projects/C#_Projects/Easy/bit_mask/bit_mask/bin/Debug/bit_mask.pdb
+/home/david/Documents/github_projects/C#_Projects/Easy/bit_mask/bit_mask/obj/x86/Debug/bit_mask.csprojAssemblyReference.cache
+/home/david/Documents/github_projects/C#_Projects/Easy/bit_mask/bit_mask/obj/x86/Debug/bit_mask.csproj.CoreCompileInputs.cache
+/home/david/Documents/github_projects/C#_Projects/Easy/bit_mask/bit_mask/obj/x86/Debug/bit_mask.exe
+/home/david/Documents/github_projects/C#_Projects/Easy/bit_mask/bit_mask/obj/x86/Debug/bit_mask.pdb

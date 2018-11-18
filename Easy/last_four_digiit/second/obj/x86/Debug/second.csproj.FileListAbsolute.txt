@@ -1,0 +1,10 @@
+/home/david/Desktop/C#/second/second/second/bin/Debug/second.exe
+/home/david/Desktop/C#/second/second/second/bin/Debug/second.pdb
+/home/david/Desktop/C#/second/second/second/obj/x86/Debug/second.csprojAssemblyReference.cache
+/home/david/Desktop/C#/second/second/second/obj/x86/Debug/second.csproj.CoreCompileInputs.cache
+/home/david/Desktop/C#/second/second/second/obj/x86/Debug/second.exe
+/home/david/Desktop/C#/second/second/second/obj/x86/Debug/second.pdb
+F:\c#\HW_1\second\second\second\bin\Debug\second.exe.config
+F:\c#\HW_1\second\second\second\obj\x86\Debug\second.exe
+F:\c#\HW_1\second\second\second\obj\x86\Debug\second.pdb
+F:\c#\HW_1\second\second\second\obj\x86\Debug\second.csprojResolveAssemblyReference.cache
