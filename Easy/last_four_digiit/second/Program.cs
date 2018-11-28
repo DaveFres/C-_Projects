@@ -5,20 +5,23 @@ namespace second
 {
     class MainClass
     {
+
+        static bool is_num_simple(int number)
+        {
+            for (int i = 2; i * i < number; i++)
+            {
+                if (number % i == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }	
+
         public static void Main(string[] args)
         {
 
-            bool is_num_simple(int number)
-            {
-                for (int i = 2; i * i < number; i++)
-                {
-                    if (number % i == 0)
-                    {
-                        return false;
-                    }
-                }
-                return true;
-            }
+
 
 
             int begin = 10000;
